@@ -1,0 +1,16 @@
+{
+    "name": "bajieeeee/record-log",
+    "description": "the convenient tool for recording log",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bajieeeee",
+            "email": "1147688450@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
