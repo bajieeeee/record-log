@@ -1,24 +1,23 @@
-<?php return array (
-  'root' => 
-  array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
-    'aliases' => 
-    array (
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => '74c5caa04bef0fdf55941f010af9f953bd2592d3',
+        'name' => 'bajieeeee/record-log',
+        'dev' => true,
     ),
-    'reference' => NULL,
-    'name' => 'bajieeeee/record-log',
-  ),
-  'versions' => 
-  array (
-    'bajieeeee/record-log' => 
-    array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => NULL,
+    'versions' => array(
+        'bajieeeee/record-log' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => '74c5caa04bef0fdf55941f010af9f953bd2592d3',
+            'dev_requirement' => false,
+        ),
     ),
-  ),
 );
