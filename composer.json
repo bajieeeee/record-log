@@ -1,11 +1,9 @@
 {
     "name": "bajieeeee/record-log",
     "description": "the convenient tool for recording log",
-    "type": "library",
-    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Bajieeeee\\RecordLog\\": "src/"
+            "Bajieeeee\\": "src/"
         }
     },
     "authors": [
@@ -14,6 +12,7 @@
             "email": "1147688450@qq.com"
         }
     ],
+    "require": {},
     "minimum-stability": "dev",
-    "require": {}
+    "license": "MIT"
 }
