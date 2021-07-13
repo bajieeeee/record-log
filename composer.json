@@ -3,7 +3,7 @@
     "description": "the convenient tool for recording log",
     "autoload": {
         "psr-4": {
-            "Bajieeeee\\": "src/"
+            "Bajieeeee\\record\\": "src/"
         }
     },
     "authors": [
