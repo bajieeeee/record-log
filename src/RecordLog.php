@@ -1,6 +1,6 @@
 <?php
 
-namespace chunyuan;
+namespace Bajieeeee;
 
 class RecordLog
 {
