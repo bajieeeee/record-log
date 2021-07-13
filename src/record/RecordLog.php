@@ -1,14 +1,9 @@
 <?php
 
-namespace Bajieeeee;
+namespace Bajieeeee\record;
 
 class RecordLog
 {
-    public function __construct()
-    {
-
-    }
-
     /**
      * 记录日志
      * @param $content
