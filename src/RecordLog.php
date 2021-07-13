@@ -1,6 +1,6 @@
 <?php
 
-namespace Bajieeeee\record;
+namespace Bajieeeee;
 
 class RecordLog
 {
