@@ -1,6 +1,7 @@
 {
     "name": "bajieeeee/record-log",
     "description": "the convenient tool for recording log",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Bajieeeee\\record\\": "src/"
@@ -12,7 +13,6 @@
             "email": "1147688450@qq.com"
         }
     ],
-    "require": {},
     "minimum-stability": "dev",
-    "license": "MIT"
+    "require": {}
 }
