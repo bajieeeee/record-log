@@ -2,7 +2,7 @@
 
 namespace Bajieeeee;
 
-class RecordLog
+class Tool
 {
     /**
      * 记录日志

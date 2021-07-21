@@ -1,6 +1,6 @@
 {
-    "name": "bajieeeee/record-log",
-    "description": "the convenient tool for recording log",
+    "name": "bajieeeee/tool",
+    "description": "the convenient tools for developing",
     "license": "MIT",
     "autoload": {
         "psr-4": {
